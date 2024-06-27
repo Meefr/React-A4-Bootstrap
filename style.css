@@ -34,6 +34,10 @@
 .navbar-light .navbar-nav .nav-link.active{
     color: #0DB55F;
 }
+/* .navbar-light .navbar-nav{
+    height: 6vh;
+    align-items: center;
+} */
 
 .btn-outline-primary{
     color: #0DB55F;
